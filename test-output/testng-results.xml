@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-19T14:46:52 MYT" name="Suite" finished-at="2023-04-19T14:47:43 MYT" duration-ms="50421">
+    <groups>
+    </groups>
+    <test started-at="2023-04-19T14:46:52 MYT" name="Test" finished-at="2023-04-19T14:47:43 MYT" duration-ms="50421">
+      <class name="com.in.testcases.AddCustomerTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:31 MYT" name="setup" finished-at="2023-04-19T14:47:35 MYT" duration-ms="3363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:35 MYT" name="addCustomer" data-provider="addCustomerTestData" finished-at="2023-04-19T14:47:36 MYT" duration-ms="1620" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Christopher]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Connely]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[L789C349]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:36 MYT" name="addCustomer" data-provider="addCustomerTestData" finished-at="2023-04-19T14:47:37 MYT" duration-ms="765" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Frank]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Christopher]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A897N450]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:37 MYT" name="addCustomer" data-provider="addCustomerTestData" finished-at="2023-04-19T14:47:38 MYT" duration-ms="892" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Christopher]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Minka]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A897N450]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:38 MYT" name="addCustomer" data-provider="addCustomerTestData" finished-at="2023-04-19T14:47:39 MYT" duration-ms="786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Connely]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jackson]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[L789C349]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:39 MYT" name="addCustomer" data-provider="addCustomerTestData" finished-at="2023-04-19T14:47:40 MYT" duration-ms="763" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jackson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Frank]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[L789C349]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:40 MYT" name="addCustomer" data-provider="addCustomerTestData" finished-at="2023-04-19T14:47:40 MYT" duration-ms="739" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Minka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jackson]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A897N450]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:40 MYT" name="addCustomer" data-provider="addCustomerTestData" finished-at="2023-04-19T14:47:41 MYT" duration-ms="990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jackson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Connely]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[L789C349]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="deleteCustomer(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:41 MYT" name="deleteCustomer" data-provider="deleteCustomerTestData" finished-at="2023-04-19T14:47:42 MYT" duration-ms="438" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jackson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Frank]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[L789C349]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method signature="deleteCustomer(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:42 MYT" name="deleteCustomer" data-provider="deleteCustomerTestData" finished-at="2023-04-19T14:47:42 MYT" duration-ms="286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Christopher]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Connely]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[L789C349]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.in.testcases.AddCustomerTest@71d44a3]" started-at="2023-04-19T14:47:42 MYT" name="tearDown" finished-at="2023-04-19T14:47:43 MYT" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.in.testcases.AddCustomerTest -->
+      <class name="com.in.testcases.AccountTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.in.testcases.AccountTest@55182842]" started-at="2023-04-19T14:46:52 MYT" name="setup" finished-at="2023-04-19T14:47:00 MYT" duration-ms="7837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="currentBalance(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.in.testcases.AccountTest@55182842]" started-at="2023-04-19T14:47:01 MYT" name="currentBalance" data-provider="transactionTestData" finished-at="2023-04-19T14:47:05 MYT" duration-ms="4341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Credit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentBalance -->
+        <test-method signature="currentBalance(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.in.testcases.AccountTest@55182842]" started-at="2023-04-19T14:47:05 MYT" name="currentBalance" data-provider="transactionTestData" finished-at="2023-04-19T14:47:09 MYT" duration-ms="4380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Debit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[47000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentBalance -->
+        <test-method signature="currentBalance(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.in.testcases.AccountTest@55182842]" started-at="2023-04-19T14:47:09 MYT" name="currentBalance" data-provider="transactionTestData" finished-at="2023-04-19T14:47:14 MYT" duration-ms="4310" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Debit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[45000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentBalance -->
+        <test-method signature="currentBalance(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.in.testcases.AccountTest@55182842]" started-at="2023-04-19T14:47:14 MYT" name="currentBalance" data-provider="transactionTestData" finished-at="2023-04-19T14:47:18 MYT" duration-ms="4329" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Credit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentBalance -->
+        <test-method signature="currentBalance(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.in.testcases.AccountTest@55182842]" started-at="2023-04-19T14:47:18 MYT" name="currentBalance" data-provider="transactionTestData" finished-at="2023-04-19T14:47:22 MYT" duration-ms="4321" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Debit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentBalance -->
+        <test-method signature="currentBalance(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.in.testcases.AccountTest@55182842]" started-at="2023-04-19T14:47:22 MYT" name="currentBalance" data-provider="transactionTestData" finished-at="2023-04-19T14:47:27 MYT" duration-ms="4302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Debit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentBalance -->
+        <test-method signature="currentBalance(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.in.testcases.AccountTest@55182842]" started-at="2023-04-19T14:47:27 MYT" name="currentBalance" data-provider="transactionTestData" finished-at="2023-04-19T14:47:31 MYT" duration-ms="4300" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Credit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentBalance -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.in.testcases.AccountTest@55182842]" started-at="2023-04-19T14:47:31 MYT" name="tearDown" finished-at="2023-04-19T14:47:31 MYT" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.in.testcases.AccountTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
